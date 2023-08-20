@@ -1,3 +1,3 @@
 
 print("Hello world, here i am,ok!")
-print("Welcome to compudemy")
+print("Welcome to compudemy classes")
